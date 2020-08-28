@@ -1,3 +1,4 @@
-Ryan Harris \n
-C1ickz \n
-rh297019@ohio.edu
+Ryan Harris  
+C1ickz  
+rh297019@ohio.edu  
+CS2401
